@@ -112,10 +112,12 @@ This documentation summarizes all progress made in the Smart Logistics ML + Anal
 ## 📌 Ready for Next Steps
 
 - [ ] Finalize feature pipeline
+- [ ] Dealing with geo_spatial feature
+- [ ] Making complete neat EDA Notebook before training he model
 - [ ] Train Model 1: `Logistics_Delay` prediction
 - [ ] Generate predictions + probabilities for Power BI
 - [ ] Build Model 2 (optional: classify `Logistics_Delay_Reason` or delay impact)
 
 ---
 
-_Last updated: [Insert today’s date]_
+_Last updated: [Feb/3/2026]_
